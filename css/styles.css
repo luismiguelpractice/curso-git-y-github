@@ -42,7 +42,7 @@ body
     margin:0;
     padding:.5em
 }
-.cabecera #logo{
+ .logo{
     width: 70px;
     vertical-align: middle;
 }
